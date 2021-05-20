@@ -7,6 +7,7 @@ ssh ubuntu@3.34.45.32 <<EOF
     nvm install 16.2.0
     npm install
     npm install -g pm2
-    pm2 restart ./ecosystem.config.js
+    pwd
+    pm2 restart ../ecosystem.config.js
     exit
 EOF
