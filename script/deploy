@@ -2,11 +2,7 @@
 ssh ubuntu@3.34.45.32 <<EOF
     cd ~/ovni		
     git pull origin master
-    curl -o-   https://raw.githubusercontent.com/creationix/nvm/v0.33.8/install.sh    | bash
-    . ~/.nvm/nvm.sh 
-    nvm install 16.2.0
     npm install
-    npm install -g pm2
-    npm start
+    npm run start:dev
     exit
 EOF
