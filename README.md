@@ -8,4 +8,5 @@ AWS로 젠킨스서버를 구축하여 CI/CD 자동배포 구현
 
 ## Content
 젠킨스 서버를 구축하여 해당 repository에서 master 브랜치로 push할 경우, node app server로 자동 빌드, 배포 됩니다. (shell script)
+
 NestJS 프레임워크의 기본 "Hello World"를 출력하는 것으로써, CI/CD 구현만 진행하였습니다.
