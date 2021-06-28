@@ -11,6 +11,8 @@ AWS로 젠킨스서버를 구축하여 CI/CD 자동배포 구현
 
 NestJS 프레임워크의 기본 "Hello World"를 출력하는 것으로써, CI/CD 구현만 진행하였습니다.
 
+현재 배치로도 사용하고 있습니다.
+
 
 ## 직접 포스팅한 기술블로그 참고
 https://choseongho93.tistory.com/290
