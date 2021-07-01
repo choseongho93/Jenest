@@ -1,5 +1,5 @@
 # Jenest
-AWS로 젠킨스서버를 구축하여 CI/CD 자동배포 구현
+AWS로 젠킨스서버를 구축하여 CI/CD 자동배포 실습 하는것을 구현하였습니다. 설명은 블로그에 포스팅했습니다.
 
 ## Tech
 - jenkins, node 각각 2대 구성 (AWS EC2 ububtu 20.14)
